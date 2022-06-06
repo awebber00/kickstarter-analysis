@@ -18,3 +18,6 @@ One conclusion that we have arrived at after analyzing our data is that theater 
 By observing the “Outcomes Based on Goals” chart we can see that there was a higher success rate with campaigns that had a funding goal of $1,000 to $25,000. From this analysis combined with those in our previous chart we can begin to believe that campaigns launched during the months of May and June with a funding goal target of between $1,000 to $25,000 will have a higher chance for success.
 
 Some limitations that this particular data set carries are that the data may require updating due to the data being from an older timeframe. An additional graph that we can create would be “Gender of Campaign Backers” to determine whether pitching campaigns to specific genders yields more success for our endeavor.
+
+
+* Note: All images that are screen shots are mine. All other photos are sources from Google Images.
