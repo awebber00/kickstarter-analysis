@@ -20,4 +20,4 @@ By observing the “Outcomes Based on Goals” chart we can see that there was a
 Some limitations that this particular data set carries are that the data may require updating due to the data being from an older timeframe. An additional graph that we can create would be “Gender of Campaign Backers” to determine whether pitching campaigns to specific genders yields more success for our endeavor.
 
 
-* Note: All images that are screen shots are mine. All other photos are sources from Google Images.
+* Note: All images that are screen shots are mine. All other photos are sourced from Google Images.
